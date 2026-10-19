@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33688450/README.md)
+
 # Clock Tower — Traduction française 1.5 (Super Famicom)
 
 **Rebirth Alliance Translations — Halloween 2026**
