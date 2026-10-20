@@ -1,4 +1,3 @@
-| [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Version terminée — Patch disponible |
 
 # DoReMi Fantasy — Traduction française (Rebirth Alliance Translations)
 
