@@ -10,8 +10,6 @@ Redécouvrez **Clock Tower** (1995), le jeu d'horreur de la **Super Famicom / Su
 ## Contenu du patch
 
 - Traduction française version 1.5.
-- Écran de démarrage **Rebirth Alliance Translations** (phénix RAT), affiché automatiquement pendant environ 3 secondes, avec fondus et possibilité de passer avec **Start**.
-- Patch **IPS complet** : la traduction et le nouvel écran de démarrage sont réunis dans un seul fichier.
 
 ## Installation
 
