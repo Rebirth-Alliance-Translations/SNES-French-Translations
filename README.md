@@ -12,7 +12,7 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 | [Chrono Trigger: Prophet’s Guile](Chrono-Trigger-Prophets-Guile/README.md) | Non annoncée | Fonctionnel, retravail en cours |
 | [Chrono Trigger — 30e anniversaire](Chrono-Trigger-30e-Anniversaire/README.md) | Non annoncée | Fonctionnel, révision du script en cours |
 | [Clock Tower](Clock-Tower/README.md) | 1.5 | Version terminée |
-| [DoReMi Fantasy](DoReMi-Fantasy/README.md) | 1.3 | Version terminée |
+| [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Version terminée — Patch disponible |
 | [Front Mission](Front-Mission/README.md) | Non annoncée | Version terminée |
 | [Hamelin no Violin](Hamelin-no-Violin/README.md) | Non annoncée | Version terminée |
 | [Live A Live](Live-A-Live/README.md) | Non annoncée | Version terminée |
