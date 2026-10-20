@@ -1,4 +1,4 @@
-
+![DoReMi Fantasy — Version française](banniere.png)
 # DoReMi Fantasy — Traduction française (Rebirth Alliance Translations)
 
 **Plateforme :** Super Famicom / Super Nintendo  
