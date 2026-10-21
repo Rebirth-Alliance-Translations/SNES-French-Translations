@@ -1,3 +1,5 @@
+![Live A Live — Rebirth Alliance Translations](images/Live_A_Live_Banniere_GitHub_RAT_2026.png)
+
 <div align="center">
 
 # LIVE A LIVE
