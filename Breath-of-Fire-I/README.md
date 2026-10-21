@@ -1,133 +1,19 @@
-<div align="center">
+### Breath of Fire I — Traduction française Rev.3 RAT 2026
 
-# LIVE A LIVE
-### Sept époques. Sept destins. Une aventure hors du temps.
+**IMPORTANT — ROM REQUISE**
 
-**SUPER FAMICOM · 1994 · SQUARE**  
-**ÉDITION FRANÇAISE — REBIRTH ALLIANCE TRANSLATIONS · 2026**
+Ce patch IPS doit être appliqué exclusivement sur la **ROM américaine originale (USA)** de *Breath of Fire* sur Super Nintendo.
 
-[![Version](https://img.shields.io/badge/%C3%89dition-FR%20RAT%202026-7b4dbb?style=for-the-badge)](#la-version-française-rat-2026)
-[![Support](https://img.shields.io/badge/Support-Super%20Famicom-315fa0?style=for-the-badge)](#installation-du-patch)
-[![Format](https://img.shields.io/badge/Distribution-IPS%20uniquement-267c59?style=for-the-badge)](#distribution-et-droits)
+**Installation :**
+1. Utilisez une ROM originale de *Breath of Fire (USA)*, non modifiée.
+2. Ouvrez le logiciel Flips (Floating IPS).
+3. Sélectionnez le patch `Breath_of_Fire_I_Rev3_RAT_2026_USA_to_FR.ips`.
+4. Appliquez-le à votre ROM américaine.
+5. Lancez le jeu en français !
 
-*Et si une seule aventure ne suffisait pas à raconter l'histoire du monde ?*
+**Attention :** les versions japonaises (JAP), européennes (PAL) ou déjà modifiées ne sont pas compatibles avec ce patch.
 
-</div>
-
----
-
-## Un RPG pas comme les autres
-
-À une époque où les jeux de rôle japonais racontaient généralement la longue quête d'un héros unique, **Live A Live** choisissait une voie radicalement différente. Publié au Japon sur Super Famicom le **2 septembre 1994**, ce jeu de **Square** invite à parcourir plusieurs histoires indépendantes, situées à des époques et dans des univers radicalement différents.
-
-À chaque chapitre, un nouveau protagoniste, une ambiance particulière, de nouvelles règles et une autre façon de jouer. Du silence de la Préhistoire aux couloirs d'un vaisseau spatial, des arts martiaux aux aventures de ninjas, Live A Live multiplie les genres sans jamais perdre son identité.
-
-**Le véritable fil conducteur de ces récits se découvre en jouant.** Cette présentation évite volontairement les révélations majeures.
-
-## Sept histoires, sept univers
-
-| Époque | L'aventure qui vous attend |
-| :--- | :--- |
-| **Préhistoire** | Dans un monde dépourvu de langage, les instincts, l'odorat et la débrouillardise remplacent les longs dialogues. |
-| **Chine impériale** | Un vieux maître d'arts martiaux cherche à transmettre son enseignement. L'entraînement et le choix de ses disciples sont au cœur du récit. |
-| **Japon de l'époque d'Edo** | Incarnez un shinobi chargé d'une mission secrète : infiltration, discrétion et choix de parcours donnent à ce chapitre une saveur particulière. |
-| **Far West** | Un mystérieux pistolero arrive dans une petite ville menacée. Observation, préparation et stratégie comptent autant que la rapidité. |
-| **Époque contemporaine** | Un combattant rêve de devenir le plus fort. Affrontez différents spécialistes pour apprendre leurs techniques, dans l'esprit des jeux de combat. |
-| **Futur proche** | Entre pouvoirs psychiques, culture populaire japonaise et robots géants, ce chapitre rend hommage aux mangas et aux séries de science-fiction. |
-| **Futur lointain** | À bord d'un vaisseau spatial, un récit plus intimiste installe progressivement une atmosphère de mystère et de tension. |
-
-Ces sept chapitres peuvent être abordés **dans l'ordre de votre choix**. Et lorsque leurs histoires ont été vécues, l'aventure réserve encore d'autres surprises…
-
-## Un système de jeu qui se réinvente
-
-Live A Live repose sur un **système de combat au tour par tour sur une grille**. Le placement des personnages, la portée des attaques, les zones d'effet et les techniques spéciales comptent autant que la puissance brute.
-
-Mais sa véritable originalité tient à la manière dont chaque époque transforme l'expérience : infiltration, entraînement, exploration, affrontements scénarisés, enquête ou survie. Le jeu change constamment de rythme, tout en conservant un socle commun.
-
-Autre particularité remarquable : les héros des différents chapitres ont été conçus par **plusieurs artistes de manga**, donnant à chaque récit sa propre personnalité visuelle.
-
-## Une bande originale inoubliable
-
-La musique de **Yoko Shimomura** accompagne les contrastes du jeu avec une énergie rare : thèmes d'aventure, ambiances inquiétantes, compositions inspirées des westerns, morceaux héroïques et affrontements mémorables.
-
-La bande originale de Live A Live fait aujourd'hui partie des œuvres marquantes de sa carrière. Son thème de combat **« MEGALOMANIA »** est particulièrement célèbre auprès des amateurs de RPG japonais.
-
-## Un jeu culte longtemps réservé au Japon
-
-Live A Live n'a **pas connu de sortie officielle occidentale sur Super Famicom** en 1994. Son originalité et sa réputation ont néanmoins traversé les frontières grâce aux passionnés, aux communautés de joueurs et aux projets de traduction.
-
-En **2022**, Square Enix a proposé un remake **HD-2D**, publié sur Nintendo Switch, puis sur d'autres plateformes en 2023. Cette nouvelle version a enfin permis à un large public de découvrir officiellement le jeu en français.
-
-**Notre projet concerne exclusivement la version Super Famicom originale de 1994**, et non le remake moderne.
-
----
-
-## La version française RAT 2026
-
-Cette édition associe la **ROM française fournie pour ce projet** à une introduction personnalisée **Rebirth Alliance Translations**.
-
-### Contenu de cette édition
-
-- Textes français issus de la version française utilisée pour cette édition.
-- **Splash screen RAT** avec notre phénix au démarrage.
-- Apparition automatique, fondus et affichage d'environ **3 secondes**.
-- Possibilité de passer le splash avec **Start**.
-- Un **patch IPS unique** pour passer de la ROM japonaise originale à cette édition française.
-
-> **Crédits de traduction :** les noms des auteurs de la traduction française d'origine ne sont pas établis dans les éléments fournis pour cette publication. Ils seront ajoutés après confirmation, afin de respecter le travail de chacun.  
-> **Intégration du splash et préparation de cette édition :** Rebirth Alliance Translations (2026).
-
-### Téléchargement
-
-📦 **[Télécharger le patch IPS complet](./Live_A_Live_FR_RAT_2026_JP_vers_FR_COMPLET.ips)**
-
-Le fichier ne contient **aucune ROM** : il s'agit uniquement des différences à appliquer à une copie personnelle du jeu japonais.
-
-## Installation du patch
-
-1. Préparez une copie personnelle de la **ROM japonaise originale de Live A Live (Super Famicom)**, **sans en-tête de 512 octets**.
-2. Vérifiez que son empreinte SHA-256 correspond à celle indiquée ci-dessous.
-3. Ouvrez un utilitaire de patch tel que **Floating IPS (Flips)**.
-4. Sélectionnez `Live_A_Live_FR_RAT_2026_JP_vers_FR_COMPLET.ips`, puis la ROM japonaise compatible.
-5. Lancez le jeu obtenu sur un émulateur ou un matériel compatible.
-
-### Vérification technique
-
-| Élément | Valeur |
-| :--- | :--- |
-| Support | Super Famicom / SNES |
-| ROM de départ | Version japonaise, sans en-tête |
-| Taille de la ROM japonaise | 2 097 152 octets (2 Mio) |
-| SHA-256 de la ROM japonaise | `415623707065646b427bdc5430cb0037fbf9dccd4b04cbf0b08e879dbe3e7210` |
-| Fichier à appliquer | `Live_A_Live_FR_RAT_2026_JP_vers_FR_COMPLET.ips` |
-| Taille de la ROM finale | 2 621 440 octets (2,5 Mio) |
-| SHA-256 de la ROM finale | `0e0d09aeeed6939931bead1dc306c925813c2398944ad1e1b347073c1007a726` |
-
-**Validation :** l'application du patch complet à la ROM japonaise de référence a été vérifiée par comparaison binaire avec la ROM française RAT finale. Le splash a été confirmé fonctionnel lors des essais sur la version française ; le patch JP → FR complet n'a pas fait l'objet d'un test distinct en émulateur pendant sa préparation.
-
-Si l'empreinte de votre ROM japonaise ne correspond pas, **n'appliquez pas ce patch au hasard** : votre fichier peut être une autre révision ou contenir un en-tête.
-
-## Distribution et droits
-
-Ce projet est une initiative **non officielle de passionnés**, sans affiliation avec Square Enix. Live A Live, ses personnages, ses graphismes et ses musiques appartiennent à leurs ayants droit respectifs.
-
-- **Aucune ROM commerciale n'est distribuée.**
-- Le patch est partagé gratuitement pour un usage personnel.
-- Une copie légitime du jeu original est nécessaire.
-- Merci de respecter le travail des auteurs du jeu et des équipes de traduction.
-
----
-
-## Pour aller plus loin
-
-- [Takashi Tokita raconte la création de Live A Live — PlayStation Blog (FR)](https://blog.fr.playstation.com/?p=136969)
-- [Présentation officielle de Live A Live — Nintendo France](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/LIVE-A-LIVE-2168010.html)
-- [Live A Live — Square Enix](https://www.square-enix-games.com/en_GB/games/live-a-live)
-- [Entretien de l'équipe originale (1994, traduction anglaise)](https://shmuplations.com/livealive/)
-
-<div align="center">
-
-### REBIRTH ALLIANCE TRANSLATIONS
+**Rebirth Alliance Translations — 2026**
 
 *Redonner vie aux classiques. Préserver l'héritage du rétrogaming.*
 
