@@ -11,6 +11,12 @@ Redécouvrez **Clock Tower** (1995), le jeu d'horreur de la **Super Famicom / Su
 
 - Traduction française version 1.5.
 
+-  ## Romhacking
+
+- Naboo
+- Julien
+
+
 ## Installation
 
 **ROM requise : version japonaise originale de Clock Tower (Super Famicom), non modifiée et sans en-tête de copie.** Le patch ne s'applique **pas** à une ROM française déjà modifiée.
