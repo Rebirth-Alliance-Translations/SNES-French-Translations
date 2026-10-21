@@ -7,12 +7,12 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 | Projet | Version | Statut |
 |---|---|---|
 | [Bahamut Lagoon](Bahamut-Lagoon/README.md) | V2.7 | Jouable, modifications en cours |
-| [Breath of Fire I](Breath-of-Fire-I/README.md) | Rev.3 | Version terminée |
+| [Breath of Fire I](Breath-of-Fire-I/README.md) | Rev.3 | Disponible |
 | [Breath of Fire II](Breath-of-Fire-II/README.md) | Non annoncée | Finition en cours |
 | [Chrono Trigger: Prophet’s Guile](Chrono-Trigger-Prophets-Guile/README.md) | Non annoncée | Fonctionnel, retravail en cours |
 | [Chrono Trigger — 30e anniversaire](Chrono-Trigger-30e-Anniversaire/README.md) | Non annoncée | Fonctionnel, révision du script en cours |
-| [Clock Tower](Clock-Tower/README.md) | 1.5 | Version terminée |
-| [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Version terminée — Patch disponible |
+| [Clock Tower](Clock-Tower/README.md) | 1.5 | Disponible |
+| [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Disponible |
 | [Front Mission](Front-Mission/README.md) | Non annoncée | Version terminée |
 | [Hamelin no Violin](Hamelin-no-Violin/README.md) | Non annoncée | Version terminée |
 | [Live A Live](./Live-A-Live/README.md) | FR — RAT 2026 | Disponible |
