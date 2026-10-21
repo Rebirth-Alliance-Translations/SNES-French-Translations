@@ -15,7 +15,7 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 | [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Version terminée — Patch disponible |
 | [Front Mission](Front-Mission/README.md) | Non annoncée | Version terminée |
 | [Hamelin no Violin](Hamelin-no-Violin/README.md) | Non annoncée | Version terminée |
-| [Live A Live](Live-A-Live/README.md) | Non annoncée | Version terminée |
+| [Live A Live](./Live-A-Live/README.md) | FR — RAT 2026 | Disponible |
 | [Star Ocean](Star-Ocean/README.md) | Non annoncée | Version terminée |
 | [Tactics Ogre: Let Us Cling Together](Tactics-Ogre/README.md) | Bêta — 95 % | Bêta, finalisation en cours |
 | [Sailor Moon](Sailor-Moon/README.md) | Non annoncée | Version terminée |
