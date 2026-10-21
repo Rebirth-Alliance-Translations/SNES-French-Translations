@@ -62,20 +62,13 @@ En **2022**, Square Enix a proposé un remake **HD-2D**, publié sur Nintendo Sw
 
 ---
 
-## La version française RAT 2026
-
-Cette édition associe la **ROM française fournie pour ce projet** à une introduction personnalisée **Rebirth Alliance Translations**.
-
-### Contenu de cette édition
+## La version française Rebirth Alliance Translations 2026
 
 - Textes français issus de la version française utilisée pour cette édition.
-- **Splash screen RAT** avec notre phénix au démarrage.
-- Apparition automatique, fondus et affichage d'environ **3 secondes**.
-- Possibilité de passer le splash avec **Start**.
 - Un **patch IPS unique** pour passer de la ROM japonaise originale à cette édition française.
+- Romhacking du jeu; Naboo.
+- Traduction française; Julien.
 
-> **Crédits de traduction :** les noms des auteurs de la traduction française d'origine ne sont pas établis dans les éléments fournis pour cette publication. Ils seront ajoutés après confirmation, afin de respecter le travail de chacun.  
-> **Intégration du splash et préparation de cette édition :** Rebirth Alliance Translations (2026).
 
 ### Téléchargement
 
@@ -103,10 +96,6 @@ Le fichier ne contient **aucune ROM** : il s'agit uniquement des différences à
 | Taille de la ROM finale | 2 621 440 octets (2,5 Mio) |
 | SHA-256 de la ROM finale | `0e0d09aeeed6939931bead1dc306c925813c2398944ad1e1b347073c1007a726` |
 
-**Validation :** l'application du patch complet à la ROM japonaise de référence a été vérifiée par comparaison binaire avec la ROM française RAT finale. Le splash a été confirmé fonctionnel lors des essais sur la version française ; le patch JP → FR complet n'a pas fait l'objet d'un test distinct en émulateur pendant sa préparation.
-
-Si l'empreinte de votre ROM japonaise ne correspond pas, **n'appliquez pas ce patch au hasard** : votre fichier peut être une autre révision ou contenir un en-tête.
-
 ## Distribution et droits
 
 Ce projet est une initiative **non officielle de passionnés**, sans affiliation avec Square Enix. Live A Live, ses personnages, ses graphismes et ses musiques appartiennent à leurs ayants droit respectifs.
@@ -115,15 +104,6 @@ Ce projet est une initiative **non officielle de passionnés**, sans affiliation
 - Le patch est partagé gratuitement pour un usage personnel.
 - Une copie légitime du jeu original est nécessaire.
 - Merci de respecter le travail des auteurs du jeu et des équipes de traduction.
-
----
-
-## Pour aller plus loin
-
-- [Takashi Tokita raconte la création de Live A Live — PlayStation Blog (FR)](https://blog.fr.playstation.com/?p=136969)
-- [Présentation officielle de Live A Live — Nintendo France](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/LIVE-A-LIVE-2168010.html)
-- [Live A Live — Square Enix](https://www.square-enix-games.com/en_GB/games/live-a-live)
-- [Entretien de l'équipe originale (1994, traduction anglaise)](https://shmuplations.com/livealive/)
 
 <div align="center">
 
