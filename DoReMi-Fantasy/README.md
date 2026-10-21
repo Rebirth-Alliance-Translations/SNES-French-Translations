@@ -9,6 +9,11 @@
 
 - Traduction française du jeu.
 
+- ## Romhacking
+
+- Naboo
+- Julien
+
 ## Installation
 
 1. Disposez d'une copie légale de la ROM japonaise d'origine, sans en-tête de 512 octets, de **2 097 152 octets**.
