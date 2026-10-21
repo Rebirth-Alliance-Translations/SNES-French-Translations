@@ -1,4 +1,4 @@
-[Breath of Fire I — Rebirth Alliance Translations](images/banniere_bof1.png)
+![Breath of Fire I — Rebirth Alliance Translations](images/banniere_bof1.png)
 
 ### Breath of Fire I — Traduction française Rev.3 RAT 2026
 
