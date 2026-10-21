@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33787662/README.md)
+
 # Live A Live — Traduction française + splash RAT (2026)
 
 **Super Famicom / SNES — Patch IPS uniquement**
