@@ -13,7 +13,7 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 | [Chrono Trigger — 30e anniversaire](Chrono-Trigger-30e-Anniversaire/README.md) | Non annoncée | Fonctionnel, révision du script en cours |
 | [Clock Tower](Clock-Tower/README.md) | 1.5 | Disponible |
 | [DoReMi Fantasy](./DoReMi-Fantasy/README.md) | 1.3 | Disponible |
-| [Front Mission](Front-Mission/README.md) | Non annoncée | Version terminée |
+| [Front Mission](Front-Mission-FR/README.md) | Disponible |
 | [Hamelin no Violin](Hamelin-no-Violin/README.md) | Non annoncée | Version terminée |
 | [Live A Live](./Live-A-Live/README.md) | FR — RAT 2026 | Disponible |
 | [Star Ocean](Star-Ocean/README.md) | Non annoncée | Version terminée |
