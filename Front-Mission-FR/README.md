@@ -1,3 +1,5 @@
+![Front Mission — Traduction française RAT 2026](Front_Mission_Banner.png)
+
 # FRONT MISSION
 ## Traduction française — Rebirth Alliance Translations (2026)
 
