@@ -7,7 +7,7 @@
 
 ---
 
-## ⚔️ Une légende de la Super Famicom renaît en français !
+## Une légende de la Super Famicom renaît en français !
 
 En 1995, alors que Squaresoft faisait rêver les joueurs avec ses grands jeux de rôle, un titre bien différent voyait le jour au Japon : **Front Mission**.
 
@@ -21,7 +21,7 @@ Avec ses affrontements stratégiques, ses personnages marquants et son atmosphè
 
 ---
 
-## 🌍 L'histoire — Bienvenue sur l'île de Huffman
+## L'histoire — Bienvenue sur l'île de Huffman
 
 **Année 2090.**
 
@@ -41,7 +41,7 @@ Entre trahisons, manipulations politiques, amitiés et sacrifices, Front Mission
 
 ---
 
-## 🤖 Les Wanzers — Vos machines de guerre
+## Les Wanzers — Vos machines de guerre
 
 Dans Front Mission, les combats reposent sur l'utilisation de gigantesques robots militaires appelés **Wanzers**.
 
@@ -61,7 +61,7 @@ Mais attention : **la puissance brute ne suffit pas toujours !**
 
 ---
 
-## 🎯 Un RPG tactique exigeant et passionnant
+## Un RPG tactique exigeant et passionnant
 
 Front Mission propose des combats au tour par tour sur des cartes en vue isométrique.
 
@@ -79,7 +79,7 @@ Entre les missions, vous pourrez visiter différentes villes, rencontrer des per
 
 ---
 
-## ❤️ Pourquoi découvrir Front Mission aujourd'hui ?
+## Pourquoi découvrir Front Mission aujourd'hui ?
 
 Plus de trente ans après sa sortie japonaise, Front Mission conserve une identité remarquable.
 
@@ -91,7 +91,7 @@ Si vous appréciez les RPG tactiques où la préparation, la réflexion et les c
 
 ---
 
-## 🇫🇷 À propos de cette édition française
+## À propos de cette édition française
 
 Cette édition distribuée par **Rebirth Alliance Translations** permet de profiter de Front Mission sur sa console d'origine, avec sa traduction française intégrée.
 
@@ -101,14 +101,14 @@ Redonner vie à ces œuvres, les faire découvrir aux joueurs francophones et pr
 
 ---
 
-## 📦 Contenu du patch
+## Contenu du patch
 
 - Traduction française intégrée à la ROM Super Famicom.
 - Distribution au format IPS.
 
 ---
 
-## 🛠️ Installation du patch
+## Installation du patch
 
 **ROM requise :** `Front Mission (Japan) (Rev 1)`
 
@@ -124,7 +124,7 @@ La ROM doit être sans en-tête copier et avoir une taille exacte de **3 145 728
 
 **Important :** appliquez le patch sur une ROM japonaise propre, et non sur une version déjà traduite ou modifiée.
 
-## ⚖️ Informations légales
+## Informations légales
 
 Ce projet est une initiative indépendante de passionnés, sans affiliation officielle avec Square Enix ou les ayants droit de Front Mission.
 
@@ -134,13 +134,13 @@ Le patch est distribué sans ROM complète. Les utilisateurs doivent disposer de
 
 ---
 
-## ❤️ Crédits et remerciements
+## Crédits et remerciements
 
-### 🇫🇷 Traduction française originale
+### Traduction française originale
 
 Cette édition française de *Front Mission* repose sur le travail de passionnés qui ont contribué à rendre ce grand classique de la Super Famicom accessible aux joueurs francophones.
 
-### 🛠️ Remerciement exceptionnel à Mziab
+### Remerciement exceptionnel à Mziab
 
 Je tiens à adresser un **immense merci à Mziab**, romhackeur passionné et talentueux, sans qui ce projet n'aurait tout simplement pas pu voir le jour dans ces conditions.
 
@@ -158,7 +158,7 @@ Merci infiniment pour ton aide, ta confiance et tout le travail accompli à mes 
 
 **Un immense respect et toute ma reconnaissance !**
 
-### 🐦‍🔥 Rebirth Alliance Translations
+### Rebirth Alliance Translations
 
 Cette édition 2026 s'inscrit dans la volonté de Rebirth Alliance Translations de préserver et de partager les grands classiques du jeu vidéo japonais.
 
