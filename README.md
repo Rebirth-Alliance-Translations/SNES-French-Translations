@@ -28,8 +28,6 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 
 ## Téléchargements
 
-Aucun patch n’est encore hébergé dans ce dépôt. Les versions publiées seront proposées ultérieurement via les **Releases** de GitHub.
-
 Les patchs sont destinés à être appliqués à des copies de jeux obtenues légalement. Aucune ROM commerciale n’est fournie.
 
 ## À propos
