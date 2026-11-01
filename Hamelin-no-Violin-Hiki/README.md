@@ -1,3 +1,4 @@
+![Le Violoniste de Hamelin - Rebirth Alliance Translations](Hamelin_Banniere.png)
 
 # Le Violoniste de Hamelin — Traduction française (SNES)
 
