@@ -19,8 +19,8 @@ Cette édition de **Rebirth Alliance Translations** permet de découvrir le jeu 
 | Contribution | Crédit |
 | --- | --- |
 | Romhacking | **Naboo BadCompany** |
-| Traduction française | **Julien** |
-| Graphismes (GFX) et écran-titre français | **Julien** |
+| Traduction française | **Julien Rebirth Alliance Translations** |
+| Graphismes (GFX) et écran-titre français | **Julien Rebirth Alliance Translations** |
 | Publication | **Rebirth Alliance Translations** |
 
 ## Installation du patch IPS
