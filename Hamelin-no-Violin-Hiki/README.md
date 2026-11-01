@@ -17,7 +17,7 @@ Cette édition de **Rebirth Alliance Translations** permet de découvrir le jeu 
 
 | Contribution | Crédit |
 | --- | --- |
-| Romhacking | **Naboo** |
+| Romhacking | **Naboo BadCompany** |
 | Traduction française | **Julien** |
 | Graphismes (GFX) et écran-titre français | **Julien** |
 | Publication | **Rebirth Alliance Translations** |
