@@ -1,5 +1,7 @@
 # Rebirth Alliance Translations — Traductions de jeux rétro
 
+[![Téléchargements cumulés](https://img.shields.io/github/downloads/Rebirth-Alliance-Translations/SNES-French-Translations/total?label=Téléchargements%20cumulés&color=brightgreen&style=for-the-badge)](https://github.com/Rebirth-Alliance-Translations/SNES-French-Translations/releases)
+
 Catalogue des projets de traduction française sur Super Nintendo / Super Famicom et PlayStation 1. Les statuts indiquent l’avancement des projets et **non** la disponibilité des téléchargements.
 
 ## Super Nintendo / Super Famicom
