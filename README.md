@@ -7,7 +7,7 @@ Catalogue des projets de traduction française sur Super Nintendo / Super Famico
 | Projet | Version | Statut |
 |---|---|---|
 | [Bahamut Lagoon](Bahamut-Lagoon/README.md) | V2.7 | Jouable, modifications en cours |
-| [Breath of Fire I](Breath-of-Fire-I/README.md) | Rev.3 | Disponible |
+| [Breath of Fire I](Breath-of-Fire-I/README.md) | Rev.3 | Disponible [![Téléchargements](https://img.shields.io/github/downloads/Rebirth-Alliance-Translations/SNES-French-Translations/breath-of-fire-1-rev3/total?label=Téléchargements&color=blue)](https://github.com/Rebirth-Alliance-Translations/SNES-French-Translations/releases/tag/breath-of-fire-1-rev3) |
 | [Breath of Fire II](Breath-of-Fire-II/README.md) | Non annoncée | Finition en cours |
 | [Chrono Trigger: Prophet’s Guile](Chrono-Trigger-Prophets-Guile/README.md) | Non annoncée | Fonctionnel, retravail en cours |
 | [Chrono Trigger — 30e anniversaire](Chrono-Trigger-30e-Anniversaire/README.md) | Non annoncée | Fonctionnel, révision du script en cours |
